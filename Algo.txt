@@ -1,3 +1,4 @@
 step 1 order pizza
 call pizza man
 order double cheese pizza
+give him addresses and payment info
